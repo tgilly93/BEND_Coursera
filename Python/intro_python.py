@@ -18,4 +18,5 @@ sandwich = float(input('1 sandwich @: $ '))
 cake = float(input('1 cake @: $ '))
 bill_total = coffee + sandwich + cake
 print('Your total bill is $', bill_total)
-# More type casting and user input() method.
+#More type casting and user input() method.
+  
