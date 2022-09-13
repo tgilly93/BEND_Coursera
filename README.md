@@ -1,5 +1,7 @@
 # BEND_Coursera
-## Topics Covered:
+
+## Topics Covered
+
 - Basic Syntax
 - Conditional Statements
 - Functions
