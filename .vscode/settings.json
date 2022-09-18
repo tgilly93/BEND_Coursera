@@ -17,5 +17,20 @@
         "*test*.py"
     ],
     "python.testing.pytestEnabled": true,
-    "python.testing.unittestEnabled": true
+    "python.testing.unittestEnabled": true,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Coursera",
+            "database": "mysql",
+            "username": "root",
+            "password": "Aeiou123"
+        }
+    ]
 }
